@@ -152,7 +152,7 @@
             $(".doblePeso").val("NO");
             $("#divDoblePeso").hide();
         }
-        document.getElementById("btn-guardar").disabled = true;
+        // document.getElementById("btn-guardar").disabled = true;
     });
 
       document.addEventListener('DOMContentLoaded', function() {

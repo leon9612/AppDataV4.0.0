@@ -246,7 +246,7 @@
             $('#selMotocarro').val(localStorage.getItem('motocarro'));
             getMaquina();
         }
-        document.getElementById("btn-guardar").disabled = true;
+        // document.getElementById("btn-guardar").disabled = true;
     });
 
     document.addEventListener('DOMContentLoaded', function() {

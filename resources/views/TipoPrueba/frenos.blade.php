@@ -412,17 +412,17 @@
     // $(document).ready(function() {
     //     document.getElementById("btn-guardar").disabled = true; // Deshabilitar el botón al cargar la página
     // })
-    $(".selPlaca").change(function(e) {
-        e.preventDefault();
-        var placa = $('.selPlaca option:selected').attr('value');
-        var placa2 = placa.split("-");
-        $(".Vplaca").val(placa2[1]);
-        $("#idprueba").val(placa2[0]);
-        $("#placa").val(placa2[1]);
-        $("#btn-buscar-placa").click();
-        //console.log(placa2);
+    // $(".selPlaca").change(function(e) {
+    //     e.preventDefault();
+    //     var placa = $('.selPlaca option:selected').attr('value');
+    //     var placa2 = placa.split("-");
+    //     $(".Vplaca").val(placa2[1]);
+    //     $("#idprueba").val(placa2[0]);
+    //     $("#placa").val(placa2[1]);
+    //     $("#btn-buscar-placa").click();
+    //     //console.log(placa2);
 
-    });
+    // });
 
     $("#btn-calcular").click(function(ev) {
         ev.preventDefault()

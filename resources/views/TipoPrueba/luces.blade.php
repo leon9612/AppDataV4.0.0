@@ -477,9 +477,9 @@
         }
     });
 
-    $(document).ready(function() {
-        document.getElementById("btn-guardar").disabled = true; // Deshabilitar el botón al cargar la página
-    });
+    // $(document).ready(function() {
+    //     // document.getElementById("btn-guardar").disabled = true; // Deshabilitar el botón al cargar la página
+    // });
 
     document.addEventListener('DOMContentLoaded', function() {
         // Cargar el tiempo guardado en el input

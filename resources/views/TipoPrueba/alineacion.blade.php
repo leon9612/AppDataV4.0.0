@@ -133,19 +133,22 @@
             tiempoInput.value = tiempoGuardado;
             // console.log(`📌 Vista: ${document.querySelector('.section-title h2')?.textContent}, Tiempo cargado: ${tiempoGuardado} minutos`);
         }
+
+       
     });
 
 
 
-    // $(".selPlaca").change(function(e) {
-    //     e.preventDefault();
-    //     var placa = $('.selPlaca option:selected').attr('value');
-    //     var placa2 = placa.split("-");
-    //     $(".Vplaca").val(placa2[1]);
-    //     $("#placa").val(placa2[1]);
-    //     $("#idprueba").val(placa2[0]);
-    //     $("#btn-buscar-placa").click();
-    // });
+    $(".selPlaca").change(function(e) {
+        e.preventDefault();
+        var placa = $('.selPlaca option:selected').attr('value');
+        var placa2 = placa.split("-");
+        $(".Vplaca").val(placa2[1]);
+        $("#placa").val(placa2[1]);
+        $("#idprueba").val(placa2[0]);
+        // alert(placa2[0])
+        $("#btn-buscar-placa").click();
+    });
 
 
 
@@ -171,6 +174,7 @@
                     _token: $("input[name='_token']").val()
                 },
                 success: function(data, textStatus, jqXHR) {
+                    console.log(data)
 
                     if (data.length > 0) {
                         $.each(data, function(i, res) {

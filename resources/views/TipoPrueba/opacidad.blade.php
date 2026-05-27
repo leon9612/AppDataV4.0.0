@@ -313,7 +313,7 @@
             $('.selLtoeEquipo').val(localStorage.getItem('selLtoeEquipo'));
         }
 
-        document.getElementById("btn-guardar").disabled = true;
+        // document.getElementById("btn-guardar").disabled = true;
 
     })
 
