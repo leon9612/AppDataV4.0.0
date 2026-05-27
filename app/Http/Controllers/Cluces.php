@@ -1,1 +1,352 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=e3a934311bca11bd71d67c9e6b27a4f6b04f30f37R3pcts2+n9n8g6oxi2pjCxbspM29jhd13ZSpbHj+Gi3a3s0EAnJcHiVIGUrbR5mn2EfoS+2HwCS4gFK9H1EzkwsAd+F78IHEgYcbBPmYYOgdc87/iUIvOMN1wl817KIz1afffPsm5DJzm3XJBY73sYWdQg2qOusys6OZYU2dXBAJIE98mdIWFDs3Q89z/WD4zfYwCZhx5s/F2E2cYB7mJHjLcsFMo6ADlyfAvwvmMkvoyp4Qt7MCN7Tno8FpS3H8EdeLCLvO/AxDaBjCKguE98ErmFhxtCGFRqEIXIREMeEr4mKnn3zF4dC8MMpFdB5x8IC/3+IfTT3iYzQGqqR0bvT3luDfqDvOoefO60d2mEdZ++FsdF52fnk/fu3jXevAOaz+XsHYDoX22fbizsHfyx92Px03qHntGe/Cf6zL2CH+O3yYO/tK4u349/fLHbO3Iudg6024LzY3uyM+h/3+9avF+d77/a3ya+/vml/PFjun3vb5F1/6eXuh08vR+9+62LzI2PnL4zaqhT5IQubljVS8PPn8gN6jjYp8yw8QhhZlAXUGSC3j4JTgnzC3NA3SDMGTVD+5ZMg9B10XHRk5rkOIzHkgvzghT2LGqgfOkYAUYCoY5ILvS47/4qA4Yf2kc4IYwCja/ABfh8y4mt19O0a6LWGvv8elff3sQUONRHECS2rjhIHjH/miPRuMJ5DzlHk63p9NQ8IjvmhBx5NfGRh1NlFEDDAzh9S0/XhCzMJahJnWGBwxlxnFwenwIFBOOIB6XrwVdew5y2wEQuIvSCyBGtyUK2+qiDAgwiiBWj0qUW6AxJ0DdnE9IRDAwV+SJT4gMh/dU1iQKTr8ajnX0ODGHCaS72+Kod7RiA+QWpzgwd2YWQmpJEjzcZ/huAHTDsBJkcnKsXtAVffB82Bqw18MoCAgaSGkf3PfwUuwhbCvo9HWcy+60PuPEVSOIQZmgP3oZB/116jOVeIV087UdqZiq1CZok1/xq01+9SM6Ce2/VAaz2MwEla3IcSGEifdOjG7WqCJXwyvKgpuAkjd6nDPGLwGUES/vvv61H44doUfrw2heVrU2hdXxGtthq/XmxWOk3kqxvgcz4KHSRZIuDHAx7maD80IPVhBDMmfPUIfISOIWROXOJs+QA54iGic8JGUD8q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
+<?php
+
+namespace App\Http\Controllers;
+
+use App\Models\Malineacion;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+use App\Libraries\Encrypt;
+use App\Traits\EventosTrait;
+
+class Cluces extends Controller
+{
+
+    use EventosTrait;
+
+    //    var $key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQSflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c";
+    var $key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQSflKxwRJSMeKKF2QT4fwpMeJf36POk6yJVadQssw5c";
+
+    /**
+     * Display a listing of the resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function index()
+    {
+        if (session('sesionUser') !== "" && session('sesionUser') !== false && session('sesionUser') !== null) {
+
+            $encrypt = new Encrypt();
+
+            // Obtener la IP del servidor desde .env
+
+            $jsonPath = storage_path('app/system/lineas.json');
+            $jsonContent = file_get_contents($jsonPath, true);
+            $json = json_decode($encrypt->decrypt($jsonContent)); // Objetos stdClass
+
+            $data['maquinas'] = [];
+
+            // Recorrer y agregar cada máquina al array
+            foreach ($json as $indice => $objeto) {
+                if (
+                    $objeto->conf_idtipo_prueba == 1 && $objeto->activo == 1 &&
+                    (
+                        $objeto->idconf_linea_inspeccion == 1 ||
+                        $objeto->idconf_linea_inspeccion == 7 ||
+                        $objeto->idconf_linea_inspeccion == 8 ||
+                        $objeto->idconf_linea_inspeccion == 4 ||
+                        $objeto->idconf_linea_inspeccion == 11 ||
+                        $objeto->idconf_linea_inspeccion == 12
+                    )
+                ) {
+                    // Crear un objeto con la estructura que espera la vista
+                    $data['maquinas'][] = (object)[
+                        'idmaquina' => $objeto->idconf_maquina . '|' . strtoupper($objeto->serie_maquina),
+                        'maquina' => strtoupper($objeto->nombre) . '-' . strtoupper($objeto->marca) . '-' . strtoupper($objeto->serie_maquina) . '-' . strtoupper($objeto->serie_banco)
+                    ];
+                }
+            }
+
+            //     $data['placas'] = DB::select("select
+            // p.idprueba,
+            // v.numero_placa as 'placa'
+            // from vehiculos v, hojatrabajo h, pruebas p
+            // where
+            // v.idvehiculo = h.idvehiculo and h.idhojapruebas = p.idhojapruebas and
+            //  p.idtipo_prueba=1 and p.estado = 0 and
+            // date_format(p.fechainicial, '%y-%m-%d') = date_format(curdate(), '%y-%m-%d') and (v.tipo_vehiculo = 1 or v.tipo_vehiculo=2) order by p.fechainicial asc ");
+            $request = new Request();
+            $request->merge([
+                'tipoprueba' => '1',
+                'tipovehiculo' => '1',
+                'tipoejecucionprueba' => 'corregir'
+            ]);
+
+            $data['placas'] = $this->getPlacas($request);
+            $data['usuarios'] = DB::select("select u.IdUsuario, concat(u.nombres,' ',u.apellidos ) as 'nombre' from usuarios u where u.idperfil = 2 and u.estado = 1");
+            // $data['maquinas'] = DB::select("select  m.idmaquina, concat(m.nombre, ' ', m.marca, ' ', m.serie) as 'maquina' from maquina m where m.estado = 1 and m.idtipo_prueba = 1 and (m.idbanco = 1 or m.idbanco = 2)");
+            //$data['placas'] = Malineacion::paginate(5);
+            return view('TipoPrueba.luces', $data);
+        } else {
+            return redirect()->intended('/');
+        }
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+        //
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\Response
+     */
+    public function store(Request $request)
+    {
+        $Mal = new Malineacion();
+        $data = request()->except('_token');
+        //validacion de campos
+        $validated = $request->validate([
+            'baja_derecha' => 'required',
+            'baja_izquierda' => 'required',
+            'alta_derecha' => 'required',
+            'alta_izquierda' => 'required',
+            'incli_derecha' => 'required',
+            'incli_izquierda' => 'required',
+            'idprueba' => 'required',
+            'selEstado' => 'required',
+            'selUsuario' => 'required',
+            'selMaquina' => 'required',
+        ]);
+        if (request()->input('intensidad_total') == "") {
+            return back()->with("error", "Debe sumar almenos un par de luces")->withInput();
+        } else {
+            date_default_timezone_set('America/bogota');
+            $now = date("Y-m-d H:i:s");
+            if (request()->input('tipoejecucionprueba') == 'corregir') {
+                $idprueba = request()->input('idprueba');
+                try {
+                    DB::delete("DELETE FROM resultados WHERE idprueba = $idprueba");
+                } catch (\Exception $e) {
+                    return back()->with("error", "Error al corregir: " . $e->getMessage());
+                }
+            }
+            $idmaquina = explode('|', request()->input('selMaquina'))[0];
+            $idmaquina = intval($idmaquina);
+            //            $now = date('Y-m-d H:i:s'); //Fomat Date and time
+            //insert version software
+            if (versionAplicaction() == 1) {
+                if (request()->input('selSimultanea') !== '1')
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'conmuLux', '000' , '" . $now . "', 'conmuLux', '600', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'conmuLux', '000', $now, 'conmuLux', '600') . "','" . $this->key . "'))");
+                else
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'conmuLux', '" . request()->input('optLUx') . "' , '" . $now . "', 'conmuLux', '600', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'conmuLux', request()->input('optLUx'), $now, 'conmuLux', '600') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'optSimul', '0' , '" . $now . "', 'optSimul', '600', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'optSimul', '0', $now, 'optSimul', '600') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'independiente', '0' , '" . $now . "', '', '600', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'independiente', '0', $now, '', '600') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('incli_derecha') . "' , '" . $now . "', 'inclinacion_derecha', '20', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('incli_derecha'), $now, 'inclinacion_derecha', '20') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('incli_izquierda') . "' , '" . $now . "', 'inclinacion_izquierda', '19', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('incli_izquierda'), $now, 'inclinacion_izquierda', '19') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'intensidad_total', '" . request()->input('intensidad_total') . "' , '" . $now . "', '', '18', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'intensidad_total', request()->input('intensidad_total'), $now, '', '18') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('alta_izquierda') . "' , '" . $now . "', 'alta_izquierda', '17', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('alta_izquierda'), $now, 'alta_izquierda', '17') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('baja_izquierda') . "' , '" . $now . "', 'baja_izquierda', '16', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('baja_izquierda'), $now, 'baja_izquierda', '16') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('alta_derecha') . "' , '" . $now . "', 'alta_derecha', '15', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('alta_derecha'), $now, 'alta_derecha', '15') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('baja_derecha') . "' , '" . $now . "', 'baja_derecha', '14', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('baja_derecha'), $now, 'baja_derecha', '14') . "','" . $this->key . "'))");
+                if (request()->input('anti_derecha') !== "" && request()->input('anti_derecha') !== null) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('anti_derecha') . "' , '" . $now . "', 'antis_derecha', '190', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('anti_derecha'), $now, 'antis_derecha', '190') . "','" . $this->key . "'))");
+                }
+
+                if (request()->input('anti_derecha_1') !== "" && request()->input('anti_derecha_1') !== null) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('anti_derecha_1') . "' , '" . $now . "', 'antis_derecha', '190', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('anti_derecha_1'), $now, 'antis_derecha', '190') . "','" . $this->key . "'))");
+                }
+
+                if (request()->input('anti_izquierda') !== "" && request()->input('anti_izquierda') !== null) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('anti_izquierda') . "' , '" . $now . "', 'antis_izquierda', '191', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('anti_izquierda'), $now, 'antis_izquierda', '191') . "','" . $this->key . "'))");
+                }
+
+                if (request()->input('anti_izquierda_1') !== "" && request()->input('anti_izquierda_1') !== null) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('anti_izquierda_1') . "' , '" . $now . "', 'antis_izquierda', '191', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('anti_izquierda_1'), $now, 'antis_izquierda', '191') . "','" . $this->key . "'))");
+                }
+
+                if ((request()->input('baja_derecha_1') !== "" && request()->input('baja_derecha_1') !== null) && (request()->input('baja_izquierda_1') !== "" && request()->input('baja_izquierda_1') !== null)) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('baja_izquierda_1') . "' , '" . $now . "', 'baja_izquierda', '16', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('baja_izquierda_1'), $now, 'baja_izquierda', '16') . "','" . $this->key . "'))");
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('baja_derecha_1') . "' , '" . $now . "', 'baja_derecha', '14', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('baja_derecha_1'), $now, 'baja_derecha', '14') . "','" . $this->key . "'))");
+                }
+
+                if ((request()->input('alta_derecha_1') !== "" && request()->input('alta_derecha_1') !== null) && (request()->input('alta_izquierda_1') !== "" && request()->input('alta_izquierda_1') !== null)) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('alta_izquierda_1') . "' , '" . $now . "', 'alta_izquierda', '17', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('alta_izquierda_1'), $now, 'alta_izquierda', '17') . "','" . $this->key . "'))");
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('alta_derecha_1') . "' , '" . $now . "', 'alta_derecha', '15', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('alta_derecha_1'), $now, 'alta_derecha', '15') . "','" . $this->key . "'))");
+                }
+
+                if ((request()->input('incli_derecha_1') !== "" && request()->input('incli_derecha_1') !== null) && (request()->input('incli_izquierda_1') !== "" && request()->input('incli_izquierda_1') !== null)) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('incli_derecha_1') . "' , '" . $now . "', 'inclinacion_derecha', '20', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('incli_derecha_1'), $now, 'inclinacion_derecha', '20') . "','" . $this->key . "'))");
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('incli_izquierda_1') . "' , '" . $now . "', 'inclinacion_izquierda', '19', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('incli_izquierda_1'), $now, 'inclinacion_izquierda', '19') . "','" . $this->key . "'))");
+                }
+            } else {
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('baja_izquierda') . "' , '" . $now . "', 'baja_izquierda', '16', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('baja_izquierda'), $now, 'baja_izquierda', '16') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('incli_izquierda') . "' , '" . $now . "', 'inclinacion_izquierda', '19', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('incli_izquierda'), $now, 'inclinacion_izquierda', '19') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('alta_izquierda') . "' , '" . $now . "', 'alta_izquierda', '17', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('alta_izquierda'), $now, 'alta_izquierda', '17') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('baja_derecha') . "' , '" . $now . "', 'baja_derecha', '14', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('baja_derecha'), $now, 'baja_derecha', '14') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('incli_derecha') . "' , '" . $now . "', 'inclinacion_derecha', '20', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('incli_derecha'), $now, 'inclinacion_derecha', '20') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('alta_derecha') . "' , '" . $now . "', 'alta_derecha', '15', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('alta_derecha'), $now, 'alta_derecha', '15') . "','" . $this->key . "'))");
+                if (request()->input('anti_derecha') !== "" && request()->input('anti_derecha') !== null) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('anti_derecha') . "' , '" . $now . "', 'antis_derecha', '190', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('anti_derecha'), $now, 'antis_derecha', '190') . "','" . $this->key . "'))");
+                }
+
+                if (request()->input('anti_izquierda') !== "" && request()->input('anti_izquierda') !== null) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('anti_izquierda') . "' , '" . $now . "', 'antis_izquierda', '191', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('anti_izquierda'), $now, 'antis_izquierda', '191') . "','" . $this->key . "'))");
+                }
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'intensidad_total', '" . request()->input('intensidad_total') . "' , '" . $now . "', '', '18', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'intensidad_total', request()->input('intensidad_total'), $now, '', '18') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'independiente', '0' , '" . $now . "', '', '600', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'independiente', '0', $now, '', '600') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'optSimul', '0' , '" . $now . "', 'optSimul', '600', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'optSimul', '0', $now, 'optSimul', '600') . "','" . $this->key . "'))");
+                if (request()->input('selSimultanea') !== '1')
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'conmuLux', '000' , '" . $now . "', 'conmuLux', '600', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'conmuLux', '000', $now, 'conmuLux', '600') . "','" . $this->key . "'))");
+                else
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'conmuLux', '" . request()->input('optLUx') . "' , '" . $now . "', 'conmuLux', '600', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'conmuLux', request()->input('optLUx'), $now, 'conmuLux', '600') . "','" . $this->key . "'))");
+                if (request()->input('anti_derecha') !== "" && request()->input('anti_derecha') !== null) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', '" . request()->input('anti_derecha') . "' , '" . $now . "', 'antis_derecha', '190', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('anti_derecha'), $now, 'antis_derecha', '190') . "','" . $this->key . "'))");
+                }
+
+                if (request()->input('anti_derecha_1') !== "" && request()->input('anti_derecha_1') !== null) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('anti_derecha_1') . "' , '" . $now . "', 'antis_derecha', '190', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('anti_derecha_1'), $now, 'antis_derecha', '190') . "','" . $this->key . "'))");
+                }
+                if (request()->input('anti_derecha_2') !== "" && request()->input('anti_derecha_2') !== null) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '3', '" . request()->input('anti_derecha_2') . "' , '" . $now . "', 'antis_derecha', '190', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '3', request()->input('anti_derecha_2'), $now, 'antis_derecha', '190') . "','" . $this->key . "'))");
+                }
+
+                if (request()->input('anti_derecha_3') !== "" && request()->input('anti_derecha_3') !== null) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '4', '" . request()->input('anti_derecha_3') . "' , '" . $now . "', 'antis_derecha', '190', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '4', request()->input('anti_derecha_3'), $now, 'antis_derecha', '190') . "','" . $this->key . "'))");
+                }
+
+
+                if (request()->input('anti_izquierda_1') !== "" && request()->input('anti_izquierda_1') !== null) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('anti_izquierda_1') . "' , '" . $now . "', 'antis_izquierda', '191', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('anti_izquierda_1'), $now, 'antis_izquierda', '191') . "','" . $this->key . "'))");
+                }
+                if (request()->input('anti_izquierda_2') !== "" && request()->input('anti_izquierda_2') !== null) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '3', '" . request()->input('anti_izquierda_2') . "' , '" . $now . "', 'antis_izquierda', '191', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '3', request()->input('anti_izquierda_2'), $now, 'antis_izquierda', '191') . "','" . $this->key . "'))");
+                }
+                if (request()->input('anti_izquierda_3') !== "" && request()->input('anti_izquierda_3') !== null) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '4', '" . request()->input('anti_izquierda_3') . "' , '" . $now . "', 'antis_izquierda', '191', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '4', request()->input('anti_izquierda_3'), $now, 'antis_izquierda', '191') . "','" . $this->key . "'))");
+                }
+
+                if ((request()->input('baja_derecha_1') !== "" && request()->input('baja_derecha_1') !== null) && (request()->input('baja_izquierda_1') !== "" && request()->input('baja_izquierda_1') !== null)) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('baja_izquierda_1') . "' , '" . $now . "', 'baja_izquierda', '16', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('baja_izquierda_1'), $now, 'baja_izquierda', '16') . "','" . $this->key . "'))");
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('baja_derecha_1') . "' , '" . $now . "', 'baja_derecha', '14', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('baja_derecha_1'), $now, 'baja_derecha', '14') . "','" . $this->key . "'))");
+                }
+
+                if ((request()->input('alta_derecha_1') !== "" && request()->input('alta_derecha_1') !== null) && (request()->input('alta_izquierda_1') !== "" && request()->input('alta_izquierda_1') !== null)) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('alta_izquierda_1') . "' , '" . $now . "', 'alta_izquierda', '17', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('alta_izquierda_1'), $now, 'alta_izquierda', '17') . "','" . $this->key . "'))");
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('alta_derecha_1') . "' , '" . $now . "', 'alta_derecha', '15', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('alta_derecha_1'), $now, 'alta_derecha', '15') . "','" . $this->key . "'))");
+                }
+
+                if ((request()->input('incli_derecha_1') !== "" && request()->input('incli_derecha_1') !== null) && (request()->input('incli_izquierda_1') !== "" && request()->input('incli_izquierda_1') !== null)) {
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('incli_derecha_1') . "' , '" . $now . "', 'inclinacion_derecha', '20', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('incli_derecha_1'), $now, 'inclinacion_derecha', '20') . "','" . $this->key . "'))");
+                    DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', '" . request()->input('incli_izquierda_1') . "' , '" . $now . "', 'inclinacion_izquierda', '19', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('incli_izquierda_1'), $now, 'inclinacion_izquierda', '19') . "','" . $this->key . "'))");
+                }
+            }
+
+            $seriemaquina = explode('|', request()->input('selMaquina'))[1];
+            if (request()->input('tipoejecucionprueba') !== 'corregir') {
+                if (sicov() == 'INDRA') {
+                    $resultado = $this->eventosindra(request()->input('placa'), $seriemaquina, request()->input('prueba'));
+                    if (!$resultado['success']) {
+                        return back()->with("error", "Datos guardados pero falló el registro en SINDRA");
+                    }
+                } else {
+                    $resultado = $this->eventosci2($request);
+                    if (!$resultado['success']) {
+                        $mensajeError = $resultado['message'] ?? $resultado['error'] ?? 'Error desconocido';
+                        return back()->with("error", "Error en el evento de finalizacion de sicov: " . $mensajeError);
+                    }
+                }
+            }
+
+            try {
+                DB::update("UPDATE pruebas p set p.fechainicial= p.fechainicial, p.estado = " . request()->input('selEstado') . ", p.idmaquina = " . $idmaquina . ", p.idusuario = " . request()->input('selUsuario') . ", p.fechafinal = '" . $now . "' , p.enc = " . "AES_ENCRYPT('" . $this->updateEncr(request()->input('idprueba'), request()->input('selEstado'), $idmaquina, request()->input('selUsuario'), $now) . "','" . $this->key . "')" . " where p.idprueba = " . request()->input('idprueba'));
+                return back()->with("success", "Datos Guardados correctamente");
+            } catch (\Exception $e) {
+                return back()->with("error", "Error al actualizar: " . $e->getMessage());
+            }
+
+
+            // DB::update("UPDATE pruebas p set p.estado = " . request()->input('selEstado') . ", p.idmaquina = " . request()->input('selMaquina') . ", p.idusuario = " . request()->input('selUsuario') . ", p.fechafinal = '" . $now . "' , p.enc = " . "AES_ENCRYPT('" . $this->updateEncr(request()->input('idprueba'), request()->input('selEstado'), request()->input('selMaquina'), request()->input('selUsuario'), $now) . "','" . $this->key . "')" . " where p.idprueba = " . request()->input('idprueba') . "  ");
+            // if (sicov() == 'INDRA')
+            //     $this->eventosindra(request()->input('placa'));
+            // return back()->with("succses", "Datos Guardados correctamente");
+        }
+    }
+
+
+
+
+
+
+    public function encr($idprueba, $tiporesultado, $valor, $fechaguardado, $observacion, $idconfig_prueba)
+    {
+        $dat['idprueba'] = $idprueba;
+        $dat['tiporesultado'] = $tiporesultado;
+        $dat['valor'] = $valor;
+        $dat['fechaguardado'] = $fechaguardado;
+        $dat['observacion'] = $observacion;
+        $dat['idconfig_prueba'] = $idconfig_prueba;
+        $enc = json_encode($dat);
+        return $enc;
+    }
+
+    public function updateEncr($idprueba, $estado, $idmaquina, $idusuario, $fechafinal)
+    {
+        $res = DB::select("select * from pruebas p where p.idprueba = $idprueba");
+        $idhojapruebas = $res[0]->idhojapruebas;
+        $dat['idhojapruebas'] = (string)$idhojapruebas;
+        $dat['fechainicial'] = (string)$res[0]->fechainicial;
+        $dat['prueba'] = "0";
+        $dat['estado'] = (string)$estado;
+        $dat['fechafinal'] = (string)$fechafinal;
+        $dat['idmaquina'] = (string)$idmaquina;
+        $dat['idusuario'] = (string)$idusuario;
+        $dat['idtipo_prueba'] = "1";
+        $enc = json_encode($dat);
+        return $enc;
+    }
+
+    /**
+     * Display the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function show($id)
+    {
+        //
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function edit($id)
+    {
+        //
+    }
+
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function update(Request $request, $id)
+    {
+        //
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function destroy($id)
+    {
+        //
+    }
+}

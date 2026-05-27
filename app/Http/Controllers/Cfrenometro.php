@@ -1,1 +1,499 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=ff21a1290e153466d1dc705f020100accbf9fcd07V39Vtw4sv9/zpl30HLI2k2a/u6QhCG7BMikk0AYIJk7GzgcYasbEbftle0GMsnD7DPsI8yL3ZJku+XPbkITmnubc2bAcqlU9VOpqmTLKRsPiedig6BN1z1+7fvu8ZZj+8yxLMK89Z9/+vmnwJM3dx2TWN7xLraoTbBBHXtd3uxZVjCkNvaJZHBA/h0Qz8/ePQxc12H+8StsYJN4x9svszTb2Mdn2CPHO5YDbGxB7TuMAv1r7MmL62n6CXkTGryjZwwLTju2wa7dSER+74hh6sONEXR1PHEl+hoW9jy01WfEdoYEgEHkyie2CW0xTj//9OfPPyH44cwyHOStEWZo+TO5RhtoiVy/OT/71aDv6Zvehy+95h7teT37oGts9Z70Prv/83HrzTOg+WL+3gOa3tXuxW5j7+iP9vvtz5c9eknPhq/8fx0K2hH+tTM4+PWZxdvx768avQvnau9opwV9urvbvev+b4d96+3V5cGbw13y9u2r1m9Hnf6lu0ve9NtP9t9/fnL95iM2f/O8y66xtB5JW19ZkX+gFbRNPdfC1wgji3o+tQfI6SP/nCBGPCdgBqlFpHGXfzLiB8xGx1nT8FzH9khEWZd/uMGZRQ3UD2zDB7tC1DbJlV6RN0Ns+Q/tI90jngc0ugZ/wO8PHmFaBf1tA3BdQn//Oyq+38cWzE8piR1YVkUdkf8sE2ktMHU2uUSh7eiVGK3op15H78/AOAhDFka9fQQGCIOxETUdBheeSVCN2KN0v+ULz7H3sX8OI3hg3nhATl241DXsunXv2vPJsC5WnVfjpBofOsOA2yOYHvDoU4ucDoh/asgmT49HqCKfBSS3P3Tkv05NYsDK0SOtV19Ag1BYHaVSWZfqXhAwdpDa3OILJaOZCcvykzbE/w7ACjztBAb5dJIH3AGMyhggB4Y2YGQAywWcBEbDv/4j+iJsIcwYvk727DsMfNE5ksIh7KFlMB4K/mzjBVp2hHiZCY1MKdsqZJa9Vl8Aev1TavrUdU5dQO0MIzCRNW5BMQ24IzpyeHsT2vMZFoyTGIuaYjQxyafU9lxicA8rGX/9ejsOa7fm8PTWHDq35tC8PRDNVn7/SrY512hCW90Cm2MosJEcEsF4fMFDzGOBAY4PI4hAcOkS+BNujMBv4gJjSy+QT3yJ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
+<?php
+
+namespace App\Http\Controllers;
+
+use App\Models\Malineacion;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+use App\Libraries\Encrypt;
+use App\Traits\EventosTrait;
+
+class Cfrenometro extends Controller
+{
+    use EventosTrait;
+
+
+    var $key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQSflKxwRJSMeKKF2QT4fwpMeJf36POk6yJVadQssw5c";
+
+    /**
+     * Display a listing of the resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function index()
+    {
+        if (session('sesionUser') !== "" && session('sesionUser') !== false && session('sesionUser') !== null) {
+            $encrypt = new Encrypt();
+
+            // Obtener la IP del servidor desde .env
+
+            $jsonPath = storage_path('app/system/lineas.json');
+            $jsonContent = file_get_contents($jsonPath, true);
+            $json = json_decode($encrypt->decrypt($jsonContent)); // Objetos stdClass
+
+            $data['maquinas'] = [];
+
+            // Recorrer y agregar cada máquina al array
+            foreach ($json as $indice => $objeto) {
+                if (
+                    $objeto->conf_idtipo_prueba == 7 && $objeto->activo == 1 &&
+                    (
+                        $objeto->idconf_linea_inspeccion == 1 ||
+                        $objeto->idconf_linea_inspeccion == 7 ||
+                        $objeto->idconf_linea_inspeccion == 8 ||
+                        $objeto->idconf_linea_inspeccion == 4 ||
+                        $objeto->idconf_linea_inspeccion == 11 ||
+                        $objeto->idconf_linea_inspeccion == 12
+                    )
+                ) {
+                    // Crear un objeto con la estructura que espera la vista
+                    $data['maquinas'][] = (object)[
+                        'idmaquina' => $objeto->idconf_maquina . '|' . strtoupper($objeto->serie_maquina),
+                        'maquina' => strtoupper($objeto->nombre) . '-' . strtoupper($objeto->marca) . '-' . strtoupper($objeto->serie_maquina) . '-' . strtoupper($objeto->serie_banco)
+                    ];
+                }
+            }
+            //     $data['placas'] = DB::select("select
+            // p.idprueba,
+            // v.numero_placa as 'placa'
+            // from vehiculos v, hojatrabajo h, pruebas p
+            // where
+            // v.idvehiculo = h.idvehiculo and h.idhojapruebas = p.idhojapruebas and
+            //  p.idtipo_prueba=7 and p.estado = 0 and
+            // date_format(p.fechainicial, '%y-%m-%d') = date_format(curdate(), '%y-%m-%d') and (v.tipo_vehiculo = 1 or v.tipo_vehiculo=2) order by p.fechainicial asc ");
+            $request = new Request();
+            $request->merge([
+                'tipoprueba' => '7',
+                'tipovehiculo' => '1',
+                'tipoejecucionprueba' => 'corregir'
+            ]);
+
+            $data['placas'] = $this->getPlacas($request);
+            $data['usuarios'] = DB::select("select u.IdUsuario, concat(u.nombres,' ',u.apellidos ) as 'nombre' from usuarios u where u.idperfil = 2 and u.estado = 1");
+            // $data['maquinas'] = DB::select("select  m.idmaquina, concat(m.nombre, ' ', m.marca, ' ', m.serie) as 'maquina' from maquina m where m.estado = 1 and m.idtipo_prueba = 7 and (m.idbanco = 1 or m.idbanco = 2) ");
+            //$data['placas'] = Malineacion::paginate(5);
+            return view('TipoPrueba.frenos', $data);
+        } else {
+            return redirect()->intended('/');
+        }
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+        //
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\Response
+     */
+    public function store(Request $request)
+    {
+        $Mal = new Malineacion();
+        $data = request()->except('_token');
+        //validacion de campos
+        $validated = $request->validate([
+            'fuerza1d' => 'required',
+            'fuerza1i' => 'required',
+            'fuerza2d' => 'required',
+            'fuerza2i' => 'required',
+            'pesaje1d' => 'required',
+            'pesaje1i' => 'required',
+            'pesaje2i' => 'required',
+            'pesaje2d' => 'required',
+            'fuerzaauxd' => 'required',
+            'fuerzaauxi' => 'required',
+            'idprueba' => 'required',
+            'selEstado' => 'required',
+            'selUsuario' => 'required',
+            'selMaquina' => 'required',
+        ]);
+        date_default_timezone_set('America/bogota');
+        $now = date("Y-m-d H:i:s");
+          if (request()->input('tipoejecucionprueba') == 'corregir') {
+            $idprueba = request()->input('idprueba');
+            try {
+                DB::delete("DELETE FROM resultados WHERE idprueba = $idprueba");
+                
+            } catch (\Exception $e) {
+                return back()->with("error", "Error al corregir: " . $e->getMessage());
+            }
+        }
+        $idmaquina = explode('|', request()->input('selMaquina'))[0];
+        $idmaquina = intval($idmaquina);
+        //        $now = date('Y-m-d H:i:s'); //Fomat Date and time
+        //insert version software
+        if (versionAplicaction() == 1) {
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'Version software', '7.0' , '" . $now . "', 'EasyTecmmas', '100', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'Version software', '7.0', $now, 'EasyTecmmas', '100') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', " . request()->input('pesaje1d') . " , '" . $now . "', 'Pesaje eje 1 derecho', '146', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('pesaje1d'), $now, 'Pesaje eje 1 derecho', '146') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', " . request()->input('pesaje2d') . " , '" . $now . "', 'Pesaje eje 2 derecho', '146', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('pesaje2d'), $now, 'Pesaje eje 2 derecho', '146') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', " . request()->input('pesaje1i') . " , '" . $now . "', 'Pesaje eje 1 Izquierdo', '147', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('pesaje1i'), $now, 'Pesaje eje 1 Izquierdo', '147') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', " . request()->input('pesaje2i') . " , '" . $now . "', 'Pesaje eje 2 Izquierdo', '147', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('pesaje2i'), $now, 'Pesaje eje 2 Izquierdo', '147') . "','" . $this->key . "'))");
+            //eje 1 fuerza derecha
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', " . request()->input('fuerza1d') . " , '" . $now . "', 'Frenos eje 1 derecho', '148', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('fuerza1d'), $now, 'Frenos eje 1 derecho', '148') . "','" . $this->key . "'))");
+
+
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', " . request()->input('fuerza2d') . " , '" . $now . "', 'Frenos eje 2 derecho', '148', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('fuerza2d'), $now, 'Frenos eje 2 derecho', '148') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', " . request()->input('fuerza1i') . " , '" . $now . "', 'Frenos eje 1 Izquierdo', '149', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('fuerza1i'), $now, 'Frenos eje 1 Izquierdo', '149') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', " . request()->input('fuerza2i') . " , '" . $now . "', 'Frenos eje 2 Izquierdo', '149', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('fuerza2i'), $now, 'Frenos eje 2 Izquierdo', '149') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '7', " . request()->input('fuerzaauxd') . " , '" . $now . "', 'FrenoAuxs eje 2 derecho', '148', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '7', request()->input('fuerzaauxd'), $now, 'FrenoAuxs eje 2 derecho', '148') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '7', " . request()->input('fuerzaauxi') . " , '" . $now . "', 'FrenoAuxs eje 2 Izquierdo', '149', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '7', request()->input('fuerzaauxi'), $now, 'FrenoAuxs eje 2 Izquierdo', '149') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', " . request()->input('deseje1_') . " , '" . $now . "', 'Desequilibrio eje 1', '150', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('deseje1_'), $now, 'Desequilibrio eje 1', '150') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', " . request()->input('deseje2_') . " , '" . $now . "', 'Desequilibrio eje 2', '150', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('deseje2_'), $now, 'Desequilibrio eje 2', '150') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'eficacia_total', " . request()->input('efitotal_') . " , '" . $now . "', 'eficacia_maxima', '151', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'eficacia_total', request()->input('efitotal_'), $now, 'eficacia_maxima', '151') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'eficacia_auxiliar', " . request()->input('efiaux_') . " , '" . $now . "', 'eficacia_auxiliar', '152', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'eficacia_auxiliar', request()->input('efiaux_'), $now, 'eficacia_auxiliar', '152') . "','" . $this->key . "'))");
+
+            if (request()->input('pesaje3i') !== "" && request()->input('pesaje3d') !== null) {
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '3', " . request()->input('pesaje3i') . " , '" . $now . "', 'Pesaje eje 3 Izquierdo', '147', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '3', request()->input('pesaje3i'), $now, 'Pesaje eje 3 Izquierdo', '147') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '3', " . request()->input('pesaje3d') . " , '" . $now . "', 'Pesaje eje 3 derecho', '146', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '3', request()->input('pesaje3d'), $now, 'Pesaje eje 3 derecho', '146') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '3', " . request()->input('fuerza3i') . " , '" . $now . "', 'Frenos eje 3 Izquierdo', '149', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '3', request()->input('fuerza3i'), $now, 'Frenos eje 3 Izquierdo', '149') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '3', " . request()->input('fuerza3d') . " , '" . $now . "', 'Frenos eje 3 derecho', '148', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '3', request()->input('fuerza3d'), $now, 'Frenos eje 3 derecho', '148') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '3', " . request()->input('deseje3_') . " , '" . $now . "', 'Desequilibrio eje 3', '150', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '3', request()->input('deseje3_'), $now, 'Desequilibrio eje 3', '150') . "','" . $this->key . "'))");
+            }
+
+            if (request()->input('pesaje4i') !== "" && request()->input('pesaje4d') !== null) {
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '4', " . request()->input('pesaje4i') . " , '" . $now . "', 'Pesaje eje 4 Izquierdo', '147', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '4', request()->input('pesaje4i'), $now, 'Pesaje eje 4 Izquierdo', '147') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '4', " . request()->input('pesaje4d') . " , '" . $now . "', 'Pesaje eje 4 derecho', '146', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '4', request()->input('pesaje4d'), $now, 'Pesaje eje 4 derecho', '146') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '4', " . request()->input('fuerza4i') . " , '" . $now . "', 'Frenos eje 4 Izquierdo', '149', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '4', request()->input('fuerza4i'), $now, 'Frenos eje 4 Izquierdo', '149') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '4', " . request()->input('fuerza4d') . " , '" . $now . "', 'Frenos eje 4 derecho', '148', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '4', request()->input('fuerza4d'), $now, 'Frenos eje 4 derecho', '148') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '4', " . request()->input('deseje4_') . " , '" . $now . "', 'Desequilibrio eje 4', '150', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '4', request()->input('deseje4_'), $now, 'Desequilibrio eje 4', '150') . "','" . $this->key . "'))");
+            }
+
+            if (request()->input('pesaje5i') !== "" && request()->input('pesaje5d') !== null) {
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '5', " . request()->input('pesaje5i') . " , '" . $now . "', 'Pesaje eje 5 Izquierdo', '147', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '5', request()->input('pesaje5i'), $now, 'Pesaje eje 5 Izquierdo', '147') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '5', " . request()->input('pesaje5d') . " , '" . $now . "', 'Pesaje eje 5 derecho', '146', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '5', request()->input('pesaje5d'), $now, 'Pesaje eje 5 derecho', '146') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '5', " . request()->input('fuerza5i') . " , '" . $now . "', 'Frenos eje 5 Izquierdo', '149', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '5', request()->input('fuerza5i'), $now, 'Frenos eje 5 Izquierdo', '149') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '5', " . request()->input('fuerza5d') . " , '" . $now . "', 'Frenos eje 5 derecho', '148', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '5', request()->input('fuerza5d'), $now, 'Frenos eje 5 derecho', '148') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '5', " . request()->input('deseje5_') . " , '" . $now . "', 'Desequilibrio eje 5', '150', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '5', request()->input('deseje5_'), $now, 'Desequilibrio eje 5', '150') . "','" . $this->key . "'))");
+            }
+        } else {
+            //fuerza eje 1 izquierda
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', " . request()->input('fuerza1i') . " , '" . $now . "', 'Frenos eje 1 izquierdo', '149', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('fuerza1i'), $now, 'Frenos eje 1 izquierdo', '149') . "','" . $this->key . "'))");
+            $this->createLog(request()->input('placa'), $idmaquina, request()->input('fuerza1i'), 1, 'izquierda');
+            //fuerza eje 2 izquierda
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', " . request()->input('fuerza2i') . " , '" . $now . "', 'Frenos eje 2 izquierdo', '149', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('fuerza2i'), $now, 'Frenos eje 2 izquierdo', '149') . "','" . $this->key . "'))");
+            $this->createLog(request()->input('placa'), $idmaquina, request()->input('fuerza2i'), 2, 'izquierda');
+            // fuerza auxiliar izquierda
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '7', " . request()->input('fuerzaauxi') . " , '" . $now . "', 'FrenoAuxs eje 7 izquierdo', '149', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '7', request()->input('fuerzaauxi'), $now, 'FrenoAuxs eje 2 izquierdo', '149') . "','" . $this->key . "'))");
+            $this->createLog(request()->input('placa'), $idmaquina, request()->input('fuerzaauxi'), 2, 'izquierda auxiliar');
+
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', " . request()->input('deseje1_') . " , '" . $now . "', 'Desequilibrio eje 1', '150', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('deseje1_'), $now, 'Desequilibrio eje 1', '150') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', " . request()->input('deseje2_') . " , '" . $now . "', 'Desequilibrio eje 2', '150', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('deseje2_'), $now, 'Desequilibrio eje 2', '150') . "','" . $this->key . "'))");
+            // fuerza auxiliar derecha
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '7', " . request()->input('fuerzaauxd') . " , '" . $now . "', 'FrenoAuxs eje 2 derecho', '148', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '7', request()->input('fuerzaauxd'), $now, 'FrenoAuxs eje 2 derecho', '148') . "','" . $this->key . "'))");
+            $this->createLog(request()->input('placa'), $idmaquina, request()->input('fuerzaauxd'), 2, 'derecha auxiliar');
+
+            //fuerza 1 derecha
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', " . request()->input('fuerza1d') . " , '" . $now . "', 'Frenos eje 1 derecho', '148', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('fuerza1d'), $now, 'Frenos eje 1 derecho', '148') . "','" . $this->key . "'))");
+            $this->createLog(request()->input('placa'), $idmaquina, request()->input('fuerza1d'), 1, 'derecha');
+
+            //fuerza 2 derecha
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', " . request()->input('fuerza2d') . " , '" . $now . "', 'Frenos eje 2 derecho', '148', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('fuerza2d'), $now, 'Frenos eje 2 derecho', '148') . "','" . $this->key . "'))");
+            $this->createLog(request()->input('placa'), $idmaquina, request()->input('fuerza2d'), 2, 'derecha');
+
+
+
+
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', " . request()->input('pesaje1i') . " , '" . $now . "', 'Pesaje eje 1 izquierdo', '147', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('pesaje1i'), $now, 'Pesaje eje 1 izquierdo', '147') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', " . request()->input('pesaje2i') . " , '" . $now . "', 'Pesaje eje 2 izquierdo', '147', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('pesaje2i'), $now, 'Pesaje eje 2 izquierdo', '147') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '1', " . request()->input('pesaje1d') . " , '" . $now . "', 'Pesaje eje 1 derecho', '146', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '1', request()->input('pesaje1d'), $now, 'Pesaje eje 1 derecho', '146') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '2', " . request()->input('pesaje2d') . " , '" . $now . "', 'Pesaje eje 2 derecho', '146', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '2', request()->input('pesaje2d'), $now, 'Pesaje eje 2 derecho', '146') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'eficacia_total', " . request()->input('efitotal_') . " , '" . $now . "', 'eficacia_maxima', '151', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'eficacia_total', request()->input('efitotal_'), $now, 'eficacia_maxima', '151') . "','" . $this->key . "'))");
+            DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'eficacia_auxiliar', " . request()->input('efiaux_') . " , '" . $now . "', 'eficacia_auxiliar', '152', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'eficacia_auxiliar', request()->input('efiaux_'), $now, 'eficacia_auxiliar', '152') . "','" . $this->key . "'))");
+
+            if (request()->input('pesaje3i') !== "" && request()->input('pesaje3d') !== null) {
+
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '3', " . request()->input('pesaje3i') . " , '" . $now . "', 'Pesaje eje 3 izquierdo', '147', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '3', request()->input('pesaje3i'), $now, 'Pesaje eje 3 izquierdo', '147') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '3', " . request()->input('pesaje3d') . " , '" . $now . "', 'Pesaje eje 3 derecho', '146', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '3', request()->input('pesaje3d'), $now, 'Pesaje eje 3 derecho', '146') . "','" . $this->key . "'))");
+                //fuerza eje3 izquierda
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '3', " . request()->input('fuerza3i') . " , '" . $now . "', 'Frenos eje 3 izquierdo', '149', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '3', request()->input('fuerza3i'), $now, 'Frenos eje 3 izquierdo', '149') . "','" . $this->key . "'))");
+                $this->createLog(request()->input('placa'), $idmaquina, request()->input('fuerza3i'), 3, 'izquierda');
+                //fuerza eje3 derecha
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '3', " . request()->input('fuerza3d') . " , '" . $now . "', 'Frenos eje 3 derecho', '148', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '3', request()->input('fuerza3d'), $now, 'Frenos eje 3 derecho', '148') . "','" . $this->key . "'))");
+                $this->createLog(request()->input('placa'), $idmaquina, request()->input('fuerza3d'), 3, 'derecha');
+
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '3', " . request()->input('deseje3_') . " , '" . $now . "', 'Desequilibrio eje 3', '150', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '3', request()->input('deseje3_'), $now, 'Desequilibrio eje 3', '150') . "','" . $this->key . "'))");
+            }
+
+            if (request()->input('pesaje4i') !== "" && request()->input('pesaje4d') !== null) {
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '4', " . request()->input('pesaje4i') . " , '" . $now . "', 'Pesaje eje 4 izquierdo', '147', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '4', request()->input('pesaje4i'), $now, 'Pesaje eje 4 izquierdo', '147') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '4', " . request()->input('pesaje4d') . " , '" . $now . "', 'Pesaje eje 4 derecho', '146', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '4', request()->input('pesaje4d'), $now, 'Pesaje eje 4 derecho', '146') . "','" . $this->key . "'))");
+                // fuerza eje4 izquierda
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '4', " . request()->input('fuerza4i') . " , '" . $now . "', 'Frenos eje 4 izquierdo', '149', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '4', request()->input('fuerza4i'), $now, 'Frenos eje 4 izquierdo', '149') . "','" . $this->key . "'))");
+                $this->createLog(request()->input('placa'), $idmaquina, request()->input('fuerza4i'), 4, 'izquierda');
+                //fuerza eje4 derecha
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '4', " . request()->input('fuerza4d') . " , '" . $now . "', 'Frenos eje 4 derecho', '148', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '4', request()->input('fuerza4d'), $now, 'Frenos eje 4 derecho', '148') . "','" . $this->key . "'))");
+                $this->createLog(request()->input('placa'), $idmaquina, request()->input('fuerza4d'), 4, 'derecha');
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '4', " . request()->input('deseje4_') . " , '" . $now . "', 'Desequilibrio eje 4', '150', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '4', request()->input('deseje4_'), $now, 'Desequilibrio eje 4', '150') . "','" . $this->key . "'))");
+            }
+
+            if (request()->input('pesaje5i') !== "" && request()->input('pesaje5d') !== null) {
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '5', " . request()->input('pesaje5i') . " , '" . $now . "', 'Pesaje eje 5 izquierdo', '147', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '5', request()->input('pesaje5i'), $now, 'Pesaje eje 5 izquierdo', '147') . "','" . $this->key . "'))");
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '5', " . request()->input('pesaje5d') . " , '" . $now . "', 'Pesaje eje 5 derecho', '146', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '5', request()->input('pesaje5d'), $now, 'Pesaje eje 5 derecho', '146') . "','" . $this->key . "'))");
+                // fuerza eje5 izquierda
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '5', " . request()->input('fuerza5i') . " , '" . $now . "', 'Frenos eje 5 izquierdo', '149', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '5', request()->input('fuerza5i'), $now, 'Frenos eje 5 izquierdo', '149') . "','" . $this->key . "'))");
+                $this->createLog(request()->input('placa'), $idmaquina, request()->input('fuerza5i'), 5, 'izquierda');
+                //fuerza eje5 derecha
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '5', " . request()->input('fuerza5d') . " , '" . $now . "', 'Frenos eje 5 derecho', '148', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '5', request()->input('fuerza5d'), $now, 'Frenos eje 5 derecho', '148') . "','" . $this->key . "'))");
+                $this->createLog(request()->input('placa'), $idmaquina, request()->input('fuerza5d'), 5, 'derecha');
+                DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , '5', " . request()->input('deseje5_') . " , '" . $now . "', 'Desequilibrio eje 5', '150', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), '5', request()->input('deseje5_'), $now, 'Desequilibrio eje 5', '150') . "','" . $this->key . "'))");
+            }
+        }
+
+        $seriemaquina = explode('|', request()->input('selMaquina'))[1];
+        if (request()->input('tipoejecucionprueba') !== 'corregir') {
+            if (sicov() == 'INDRA') {
+                $resultado = $this->eventosindra(request()->input('placa'), $seriemaquina, request()->input('prueba'));
+                if (!$resultado['success']) {
+                    return back()->with("error", "Datos guardados pero falló el registro en SINDRA");
+                }
+            } else {
+                $resultado = $this->eventosci2($request);
+                if (!$resultado['success']) {
+                    $mensajeError = $resultado['message'] ?? $resultado['error'] ?? 'Error desconocido';
+                    return back()->with("error", "Error en el evento de finalizacion de sicov: " . $mensajeError);
+                }
+            }
+        }
+
+        try {
+            DB::update("UPDATE pruebas p set p.fechainicial= p.fechainicial, p.estado = " . request()->input('selEstado') . ", p.idmaquina = " . $idmaquina . ", p.idusuario = " . request()->input('selUsuario') . ", p.fechafinal = '" . $now . "' , p.enc = " . "AES_ENCRYPT('" . $this->updateEncr(request()->input('idprueba'), request()->input('selEstado'), $idmaquina, request()->input('selUsuario'), $now) . "','" . $this->key . "')" . " where p.idprueba = " . request()->input('idprueba'));
+            return back()->with("success", "Datos Guardados correctamente");
+        } catch (\Exception $e) {
+            return back()->with("error", "Error al actualizar: " . $e->getMessage());
+        }
+    }
+
+    function generarLogConPico($valorMaximo, $cantidad = 24)
+    {
+        $log = [];
+
+        // Determinar la posición del pico (entre 50% y 80% del array)
+        $posicionPico = floor($cantidad * (0.5 + (mt_rand() / mt_getrandmax()) * 0.3));
+        $posicionPico = max(3, min($cantidad - 3, $posicionPico));
+
+        // Valor inicial más realista (entre 5% y 15% del máximo)
+        $valorActual = $valorMaximo * (0.05 + (mt_rand() / mt_getrandmax()) * 0.1);
+        $valorActual = round($valorActual, 1);
+        $log[] = $valorActual;
+
+        // Fase de subida (hasta el pico)
+        for ($i = 1; $i <= $posicionPico; $i++) {
+            // Progresión más suave al inicio, más acelerada al final
+            $progresion = $i / $posicionPico;
+            $factorAceleracion = $progresion * $progresion;
+
+            // Incremento base que aumenta con la progresión
+            $incrementoBase = ($valorMaximo - $valorActual) / ($posicionPico - $i + 1);
+            $incremento = $incrementoBase * (0.8 + $factorAceleracion * 0.6);
+
+            // Variación aleatoria
+            $variacion = (mt_rand() / mt_getrandmax()) * ($incremento * 0.3);
+            $nuevoValor = $valorActual + $incremento + $variacion;
+
+            // Suavizar la aproximación al pico
+            if ($progresion > 0.8) {
+                $distanciaAlMaximo = $valorMaximo - $nuevoValor;
+                $nuevoValor += $distanciaAlMaximo * (mt_rand() / mt_getrandmax()) * 0.5;
+            }
+
+            // Asegurar que no sobrepase el máximo durante la subida
+            $nuevoValor = min($valorMaximo * 0.99, max(0, $nuevoValor));
+
+            $nuevoValor = round($nuevoValor, 1);
+            $log[] = $nuevoValor;
+            $valorActual = $nuevoValor;
+        }
+
+        // FORZAR que el pico sea exactamente el valor máximo
+        $log[$posicionPico] = round($valorMaximo, 1);
+
+        // Fase de bajada (más suave y gradual)
+        $elementosRestantes = $cantidad - $posicionPico - 1;
+        $valorActual = $log[$posicionPico];
+        $valorFinal = $valorMaximo * (0.1 + (mt_rand() / mt_getrandmax()) * 0.1);
+
+        for ($i = $posicionPico + 1; $i < $cantidad; $i++) {
+            $progresionBajada = ($i - $posicionPico) / $elementosRestantes;
+
+            // Bajada más suave al principio, más pronunciada al final
+            $factorDesaceleracion = $progresionBajada * $progresionBajada;
+
+            // Decremento que se ajusta progresivamente
+            $decrementoBase = ($valorActual - $valorFinal) / ($cantidad - $i);
+            $decremento = $decrementoBase * (0.7 + $factorDesaceleracion * 0.6);
+
+            // Variación en la bajada
+            $variacion = (mt_rand() / mt_getrandmax()) * ($decremento * 0.4) - ($decremento * 0.2);
+            $nuevoValor = $valorActual - $decremento + $variacion;
+
+            $nuevoValor = round(max($valorFinal * 0.8, $nuevoValor), 1);
+            $log[] = $nuevoValor;
+            $valorActual = $nuevoValor;
+        }
+
+        return $log;
+    }
+
+    function createLog($placa, $idmaquina, $valor, $eje, $lado)
+    {
+        date_default_timezone_set('America/bogota');
+        $now = date("Y-m-d H:i:s");
+        $fuerza4dK = $this->rdnr(floatval($valor) / 9.81);
+        $fuerza4d = $this->generarLogConPico($fuerza4dK);
+        $fuerza4d_json = json_encode($fuerza4d);
+        DB::insert("INSERT INTO control_frenos VALUES (NULL,'" . $placa . "' , " . $idmaquina . " , '" . $now . "',  " . $eje . " , '" . $lado . "' , " . $fuerza4dK . "  , '" . $fuerza4d_json . "')");
+    }
+
+    private function rdnr($valor)
+    {
+        $dato = '';
+        if ($valor !== '') {
+            if (floatval($valor) === 0.00 || floatval($valor) === 0.0 || floatval($valor) === 0) {
+                $dato = "0.00";
+            } else {
+                if (intval($valor) < 10) {
+                    $valorNegativo = false;
+                    $dato = abs(round($valor, 2));
+                    if ($valor < 0) {
+                        $valorNegativo = true;
+                        if (intval($valor) > -10) {
+                            if (substr($dato, 2) == "") {
+                                $dato = $dato . ".00";
+                            } elseif (substr($dato, 3) == "" || substr($dato, 3) == '0') {
+                                $dato = $dato . "0";
+                            }
+                        } elseif (intval($valor) <= -10 && intval($valor) > -100) {
+                            $dato = abs(round($valor, 1));
+                            if (substr($dato, 2) == "") {
+                                $dato = $dato . ".0";
+                            }
+                        } else {
+                            $dato = abs(round($valor));
+                        }
+                    } else {
+                        if (substr($dato, 1) == "") {
+                            $dato = $dato . ".00";
+                        } elseif (substr($dato, 3) == "" || substr($dato, 3) == '0') {
+                            $dato = $dato . "0";
+                        }
+                    }
+                    if ($valorNegativo) {
+                        $dato = "-" . $dato;
+                    }
+                } elseif (intval($valor) >= 10 && intval($valor) < 100) {
+                    $dato = round($valor, 1);
+                    if (substr($dato, 2) == "") {
+                        $dato = $dato . ".0";
+                    }
+                } else {
+                    $dato = round($valor);
+                }
+            }
+        }
+        return $dato;
+    }
+
+    // public function eventosindra($placa)
+    // {
+    //     date_default_timezone_set('America/bogota');
+    //     $date = date("Y-m-d H:i:s");
+    //     $datos = DB::select("SELECT c.valor,
+    //                     (SELECT p.idmaquina FROM vehiculos v, hojatrabajo h, pruebas p
+    //                     WHERE v.idvehiculo= h.idvehiculo AND h.idhojapruebas=p.idhojapruebas AND p.idtipo_prueba=7 AND (v.tipo_vehiculo = 1 or v.tipo_vehiculo = 2)  ORDER BY 1 DESC LIMIT 1) AS 'idmaquina'
+    //                     FROM config_prueba c
+    //                     WHERE
+    //                     c.idconfiguracion=34 AND c.descripcion LIKE '%runt%' ");
+    //     $r = DB::select("SELECT valor AS 'serial' from config_prueba where idconfig_prueba=20000+" . strval($datos[0]->idmaquina) . " LIMIT 1");
+    //     if ($r == null || $r == "" || count($r) == 0)
+    //         $serial = '51553358';
+    //     else
+    //         $serial = $r[0]->serial;
+    //     $cadenasicov = "862|" . $date . "|Frenos|" . $placa . "|" . $serial . "|2|" . $datos[0]->valor;
+    //     DB::insert("INSERT INTO eventosindra VALUES (NULL,'" . $placa . "-Frenos','" . $cadenasicov . "','" . $date . "','e',0,'Operación pendiente')");
+    //     //$r = DB::select("SELECT valor AS 'serial' from config_prueba where idconfig_prueba=20000+" + $datos[0]->idmaquina + " LIMIT 1");
+    // }
+
+    public function encr($idprueba, $tiporesultado, $valor, $fechaguardado, $observacion, $idconfig_prueba)
+    {
+        $dat['idprueba'] = $idprueba;
+        $dat['tiporesultado'] = $tiporesultado;
+        $dat['valor'] = $valor;
+        $dat['fechaguardado'] = $fechaguardado;
+        $dat['observacion'] = $observacion;
+        $dat['idconfig_prueba'] = $idconfig_prueba;
+        $enc = json_encode($dat);
+        return $enc;
+    }
+
+    public function updateEncr($idprueba, $estado, $idmaquina, $idusuario, $fechafinal)
+    {
+        $res = DB::select("select * from pruebas p where p.idprueba = $idprueba");
+        $idhojapruebas = $res[0]->idhojapruebas;
+        $dat['idhojapruebas'] = (string)$idhojapruebas;
+        $dat['fechainicial'] = (string)$res[0]->fechainicial;
+        $dat['prueba'] = "0";
+        $dat['estado'] = (string)$estado;
+        $dat['fechafinal'] = (string)$fechafinal;
+        $dat['idmaquina'] = (string)$idmaquina;
+        $dat['idusuario'] = (string)$idusuario;
+        $dat['idtipo_prueba'] = "7";
+        $enc = json_encode($dat);
+        return $enc;
+    }
+
+    /**
+     * Display the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function show($id)
+    {
+        //
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function edit($id)
+    {
+        //
+    }
+
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function update(Request $request, $id)
+    {
+        //
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function destroy($id)
+    {
+        //
+    }
+}

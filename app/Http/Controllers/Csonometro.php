@@ -1,1 +1,219 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=d473ce46fa47837b0a0b277cd28a1276be0cbdffzVnvcts4Dv/emb4D1+OupI7/JN2kMxtPspdN3NZpk6aJ071ekvHQEm0zkUQtKdlxe3mYe4Z7hH2xA0lJpizZaXvp3PmDLZEA+AMIgADdbj998vRJiAMiIuwStB9FV2/iOLo6YGHMme8TLjqSJBF68ph5xBdXx9inIcEuZWFHT/Z8PwloiGOiBZyRPxMi4vLseRJFjMdXr7CLPSKuDn8v0xziGA+xIFddn4GYUFHHjFOgf4OFfpl/DZ/CW9DgHR1yrCR1Q5fPowyinOtzTGOYmAIrE+pN8bo+FgIdCBaygIBdELmLSejBUG6mp0++SEoEHymtJEJOtNvye4o5qt+SOdpFNTI/mgxfu/Q9PepdfO5tntCe6IVn2+5B72XvNvr7x4OjX4Hms/dHD2h6d8c3xxsn/U+/vD+8nfXojA6DV/E/zhXtFL/eGp+9/tWX4/iPVxu9G3Z30u++AJ7t48PefPThfOS/vZudHZ0fk7dvX7340N8azaJjcjT65eXp+9uX86OPA+x9EGK27dY6GvL/M1gTa2rg58/1A3qODqmIfDxHGPlUxDQcIzZC8YQgTgRLuEtaGWnO8jdO4oSH6KrszCJioSAZZVs/RMnQpy4aJaEbQyQgGnrkznb05JeUGD50hGxBhAAa24IH+L0QhFsO+mkX7FpDP/+MVs+PsA8OtZYkTHzfMVeUnzrR/g1bF5IZSr3ddnJrZR9wy/dD8GfCkY9R7xRByMBifEo9xuFFeAS1SDhd5qvfQECc4ngCKwgISDwmgwhebQtHUVvMRUyCtsoToiVJLadTIUCGEMQKyBhRnwzGJB64ekjY+QoNFPOEVPIDo/wZeMSFWLczrZt7MKAUNldxnI5W94ZAdAJq70CGdkkzDxLJpRXgPxPwAmFdwyKX11WGO4NVOQfLgaONORlDuEBawyj461+KF2EfYc7xvMg5Yhyy5wRpcAgLVAfnoZCBd/dQnSl4pQ3NXCmdb+6BnUYD6sU0YoMI7DPECJxhS/pKTgOpkk6ZHN+sFJjqcQB4OEpCpPkQiJbOABmcJy4EBUaQT+E1IvAIE1OIKVwtrWS8S2k+Wwp2Y+eymkl+LOqlTJZhhuYe9ZSi6RxqIeufFnwDtJjBYUL4wiLgtZRklE5jzVrmSlWSINMPOXHkas1VqwWY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
+<?php
+
+//
+
+namespace App\Http\Controllers;
+
+use App\Models\Malineacion;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+use App\Libraries\Encrypt;
+use App\Traits\EventosTrait;
+
+class Csonometro extends Controller
+{
+
+    use EventosTrait;
+
+    //    var $key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQSflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c";
+    var $key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQSflKxwRJSMeKKF2QT4fwpMeJf36POk6yJVadQssw5c";
+
+    /**
+     * Display a listing of the resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function index()
+    {
+        if (session('sesionUser') !== "" && session('sesionUser') !== false && session('sesionUser') !== null) {
+            $encrypt = new Encrypt();
+
+            // Obtener la IP del servidor desde .env
+
+            $jsonPath = storage_path('app/system/lineas.json');
+            $jsonContent = file_get_contents($jsonPath, true);
+            $json = json_decode($encrypt->decrypt($jsonContent)); // Objetos stdClass
+
+            $data['maquinas'] = [];
+
+            // Recorrer y agregar cada máquina al array
+            foreach ($json as $indice => $objeto) {
+                if ($objeto->conf_idtipo_prueba == 4 && $objeto->activo == 1) {
+                    // Crear un objeto con la estructura que espera la vista
+                    $data['maquinas'][] = (object)[
+                        'idmaquina' => $objeto->idconf_maquina . '|' . strtoupper($objeto->serie_maquina),
+                        'maquina' => strtoupper($objeto->nombre) . '-' . strtoupper($objeto->marca) . '-' . strtoupper($objeto->serie_maquina) . '-' . strtoupper($objeto->serie_banco)
+                    ];
+                }
+            }
+            //     $data['placas'] = DB::select("select
+            // p.idprueba,
+            // v.numero_placa as 'placa'
+            // from vehiculos v, hojatrabajo h, pruebas p
+            // where
+            // v.idvehiculo = h.idvehiculo and h.idhojapruebas = p.idhojapruebas and
+            //  p.idtipo_prueba=4 and p.estado = 0 and
+            // date_format(p.fechainicial, '%y-%m-%d') = date_format(curdate(), '%y-%m-%d')  order by p.fechainicial asc ");
+            $request = new Request();
+            $request->merge([
+                'tipoprueba' => '4',
+                'tipovehiculo' => '4',
+                'tipoejecucionprueba' => 'corregir'
+            ]);
+
+            $data['placas'] = $this->getPlacas($request);
+            $data['usuarios'] = DB::select("select u.IdUsuario, concat(u.nombres,' ',u.apellidos ) as 'nombre' from usuarios u where u.idperfil = 2 and u.estado = 1");
+            // $data['maquinas'] = DB::select("select  m.idmaquina, concat(m.nombre, ' ', m.marca, ' ', m.serie) as 'maquina' from maquina m where m.estado = 1 and m.idtipo_prueba = 4");
+            //$data['placas'] = Malineacion::paginate(5);
+            return view('TipoPrueba.sonometro', $data);
+        } else {
+            return redirect()->intended('/');
+        }
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+        //
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\Response
+     */
+    public function store(Request $request)
+    {
+        $Mal = new Malineacion();
+        $data = request()->except('_token');
+        //validacion de campos
+        $validated = $request->validate([
+            'valson' => 'required',
+            'idprueba' => 'required',
+            'selEstado' => 'required',
+            'selUsuario' => 'required',
+            'selMaquina' => 'required',
+        ]);
+        date_default_timezone_set('America/bogota');
+        $now = date("Y-m-d H:i:s");
+        if (request()->input('tipoejecucionprueba') == 'corregir') {
+            $idprueba = request()->input('idprueba');
+            try {
+                DB::delete("DELETE FROM resultados WHERE idprueba = $idprueba");
+            } catch (\Exception $e) {
+                return back()->with("error", "Error al corregir: " . $e->getMessage());
+            }
+        }
+        $idmaquina = explode('|', request()->input('selMaquina'))[0];
+        $idmaquina = intval($idmaquina);
+
+        DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'valor_ruido_motor1', '" . request()->input('valson') . "' , '" . $now . "', 'Prueba Terminada', '164', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'valor_ruido_motor1', request()->input('valson'), $now, 'Prueba Terminada', '164') . "','" . $this->key . "'))");
+        DB::insert("INSERT INTO resultados VALUES (NULL, " . request()->input('idprueba') . " , 'maximo_ruido_motor', '" . request()->input('valson') . "' , '" . $now . "', 'Prueba Terminada', '165', AES_ENCRYPT('" . $this->encr(request()->input('idprueba'), 'maximo_ruido_motor', request()->input('valson'), $now, 'Prueba Terminada', '165') . "','" . $this->key . "'))");
+
+        $seriemaquina = explode('|', request()->input('selMaquina'))[1];
+        if (request()->input('tipoejecucionprueba') !== 'corregir') {
+            if (sicov() == 'INDRA') {
+                $resultado = $this->eventosindra(request()->input('placa'), $seriemaquina, request()->input('prueba'));
+                if (!$resultado['success']) {
+                    return back()->with("error", "Datos guardados pero falló el registro en SINDRA");
+                }
+            } else {
+                $resultado = $this->eventosci2($request);
+                if (!$resultado['success']) {
+                    $mensajeError = $resultado['message'] ?? $resultado['error'] ?? 'Error desconocido';
+                    return back()->with("error", "Error en el evento de finalizacion de sicov: " . $mensajeError);
+                }
+            }
+        }
+
+        try {
+            DB::update("UPDATE pruebas p set p.fechainicial= p.fechainicial, p.estado = " . request()->input('selEstado') . ", p.idmaquina = " . $idmaquina . ", p.idusuario = " . request()->input('selUsuario') . ", p.fechafinal = '" . $now . "' , p.enc = " . "AES_ENCRYPT('" . $this->updateEncr(request()->input('idprueba'), request()->input('selEstado'), $idmaquina, request()->input('selUsuario'), $now) . "','" . $this->key . "')" . " where p.idprueba = " . request()->input('idprueba'));
+            return back()->with("success", "Datos Guardados correctamente");
+        } catch (\Exception $e) {
+            return back()->with("error", "Error al actualizar: " . $e->getMessage());
+        }
+    }
+
+
+
+    public function encr($idprueba, $tiporesultado, $valor, $fechaguardado, $observacion, $idconfig_prueba)
+    {
+        $dat['idprueba'] = $idprueba;
+        $dat['tiporesultado'] = $tiporesultado;
+        $dat['valor'] = $valor;
+        $dat['fechaguardado'] = $fechaguardado;
+        $dat['observacion'] = $observacion;
+        $dat['idconfig_prueba'] = $idconfig_prueba;
+        $enc = json_encode($dat);
+        return $enc;
+    }
+
+    public function updateEncr($idprueba, $estado, $idmaquina, $idusuario, $fechafinal)
+    {
+        $res = DB::select("select * from pruebas p where p.idprueba = $idprueba");
+        $idhojapruebas = $res[0]->idhojapruebas;
+        $dat['idhojapruebas'] = (string)$idhojapruebas;
+        $dat['fechainicial'] = (string)$res[0]->fechainicial;
+        $dat['prueba'] = "0";
+        $dat['estado'] = (string)$estado;
+        $dat['fechafinal'] = (string)$fechafinal;
+        $dat['idmaquina'] = (string)$idmaquina;
+        $dat['idusuario'] = (string)$idusuario;
+        $dat['idtipo_prueba'] = "4";
+        $enc = json_encode($dat);
+        return $enc;
+    }
+
+    /**
+     * Display the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function show($id)
+    {
+        //
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function edit($id)
+    {
+        //
+    }
+
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function update(Request $request, $id)
+    {
+        //
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function destroy($id)
+    {
+        //
+    }
+}

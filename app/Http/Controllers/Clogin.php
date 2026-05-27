@@ -1,1 +1,173 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=83980edbed090b5ccf0b4b0fdff2ab9b0db19f7fxVdtT+NGEP6OlP+wjdDZoQm++1KqIBAccL2rylElgFQRlFvWk2QP27vdtRMQ8KP6G/rHOrt+wbFN4E6cGiT8srMzz8zOPDOOaAhaUgZkX8rRxziWowMRxUoEASi93Vprrc2A+qBcZ58x0LqXLff2g0AseieKT3nUJxtOZ/sZ0WOIZ8LXL5L9aBcL2dZaolOEx8KHQI+OacAjoIyLaDtd/BQEScgjGkPqxQD+TkDH9dVhIqVQ8egDZWhDjw7fPy9jND4vNYyFolN4gSA6nCJvrbGAak0OAoFhJHATQ+TjY3EErbW71hrBn7exkd6QDXLItQzoLaEk4Drm0ZSICYlnQBRokSgGm7losWVPQZyoiIzqcdJSRBpySS+9kclVwBmZJBGLESrhkQ83biddvDPASfbzPLKuMiVkhxil/f6C41kn8TkoPrlFgPnObIP59XanELvODOV13/OYj5BYGFK9mV+ZCM1rz9relDPpHWhQc46n7uHeP0wG6Cw/Ssr5hLgFot6uTmyCTZLA7XTIXQ3HOhqmCLy05asWkWv0VkTnVI39JJSu3dMggJdBgtrolRaBufHBHCReiE6To25e0niG5rP1sXl0HSqlp291DKFnE11vGkx1X7PLgQKqiM8VMFTDBdGcRALTCdOjwSQKokX8H2H1uxZBgzMmjj9NeABjq0e7Zl9jCM0vvMZVK9Ilb7e2trokVgk0qH1oduG3hCofnYCAUMVmfC5qUhaLTOIxw/LAwOoUepeY2IwhYsgN6dF0ye/Dk8/jPwdHp6d/4eXT59NOBcoSjKw45hwWrnNua9HJ5QvBcgUOZ2JhK24iVGj+EYZHYEuRkggWP7ASrSEoleKjU6sAY15Aii24zXT4BUos7zwBGwBLqmhImgBbiiWmdOzdd/nY7KVBA25uITfQ5DRZx2aA6WyiXmoL1frNyzzT5HZ6u3DDQCIFjWNxDY8Hnm3wvDlq860yU8CMhlLoZZ2phInkToGxt5u/dS9qKexASHngkJ1d4hh5rFjf6dbFJDaFhVD+SsnLlA7SvzIsawQhtd9rJb5S/cve1LwxhNquRCU3ZKTftZuotBQwHmH1uZkPHbKzk5t684bUxQofUsn8sYlAdNoQ+327EZ/w4Qy53umiDxyiOUTc38MsneINKFryp4FhsuTDgFlCTCGZxgq+63hMKgffmA6FpmIaJ3rJjKiqfEBOwtZ295SdK8qu3VxjG5QSqo0KzzQyGlIxVpvp5lTDv/9QdIEJZWlat1cxkucVXjwR/upZNaIxzQ/DafAcUrSZ0ayPdxkO7AAYm/ajukb6yCcOQ3laAuMTXqKPpzkD4470wP1XYz+NxOuiwm+lvxpfY3JYuv7fPTJAvsOjM2ko5gn4r87nP8r5xHpR4/ku+faADCAU8ycDMlEifD4kr+4fTvs4/92+8HxrrR7JhKqhpcOGhj/MWRPz2c7SJeIsc8tqPqwPOlUYqPuYsgYA61zu+z7GWJv+Nx4eDc6PBhfO4Oj45PRovH94OHAuSzjWQ8qMPApPKFJqeYkqia+/mEuPlhR/KQuZ5m5MwY0MzKzXHkXIbGZv2V2MBo4AM/wISOWpTncuNR6rj4nAqJMKpmPkN6xDxxvpnz3HDK88TBUsDY75XGy3Xry9tJ2tAFuzUPE63fXusqLw4fFxqQdYQ8XuLGjk/p6UX0ZJEFTftdud5W+0Cg64AeY6eKz4itzjXI3fnLHCFgH4cQVtp+pxaSvK4bRUwOoShyyJl3wBNhNLo3kST34txvRMQecl2Zcl+qoSWD04IKkQTPgpJQl2yASwMDndbDcWSVrXpkjsZ+DFciicbFSxg1lhvVZ9pUHtsuThw38=
+<?php
+
+namespace App\Http\Controllers;
+
+header('Access-Control-Allow-Origin: *');
+header('Access-Control-Allow-Methods: *');
+header('Access-Control-Allow-Headers: *');
+
+use App\Models\Malineacion;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\Facades\Session;
+
+class Clogin extends Controller
+{
+    /**
+     * Display a listing of the resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function index()
+    {
+
+        // $response = Http::withoutVerifying()
+        //     ->get('https://cdatecmmas.tecmmas.com/cda/index.php/Cservicio/getLineas');
+
+        // if ($response->successful()) {
+        //     $data = $response->json();
+        //     var_dump($data);
+        //     // Ruta absoluta dentro de storage
+        //     $path = storage_path('app/system/lineas.json');
+
+        //     // Crear directorio si no existe
+        //     $dir = dirname($path);
+        //     if (!file_exists($dir)) {
+        //         mkdir($dir, 0777, true);
+        //     }
+
+        //     // Guardar el archivo
+        //     file_put_contents($path, json_encode($data, JSON_PRETTY_PRINT));
+        // }
+
+        return view('Vlogin');
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+        //
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\Response
+     */
+
+    public function store(Request $request)
+    {
+        // $Mal = new Malineacion();
+        // $data = request()->except('_token');
+        // //validacion de campos
+        // $validated = $request->validate([
+        //     'email' => 'required',
+        //     'password' => 'required',
+        // ]);
+
+
+
+
+        // $email = "Bsrojas6@gmail.com";
+        // $password = "1";
+
+        // if (request()->input('email') == $email && request()->input('password') == $password) {
+        //     session::put('sesionUser', "Bienvenid@ ingeniera@gmail.com");
+        //     return redirect()->intended('/cpr')->with('status', "Bienvenido");
+        // } else {
+        //     return back()->with("error", "Usuario y contraseña incorrectos");
+        // }
+
+        //return request()->input('email');
+
+        // return back()->with("succses", "Datos Guardados correctamente");
+
+    }
+
+    /**
+     * Display the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function show($id)
+    {
+        //
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function edit($id)
+    {
+        //
+    }
+
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function update(Request $request, $id)
+    {
+        //
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function destroy($id)
+    {
+        //
+    }
+
+    public function cerrarSesion()
+    {
+        Session::forget('sesionUser');
+        return redirect()->intended('/');
+    }
+
+    public function getMac()
+    {
+        $ipAddress = $_SERVER['REMOTE_ADDR'];
+        $macAddr = false;
+        $arp = `arp -a $ipAddress`;
+        $lines = explode("\n", $arp);
+        foreach ($lines as $line) {
+            $cols = preg_split('/\s+/', trim($line));
+            if ($cols[0] == $ipAddress) {
+                $macAddr = $cols[1];
+            }
+        }
+
+        if ($macAddr == false || $macAddr == null || $macAddr == "") {
+
+            $macAddr = exec('getmac | findstr "Device"');
+            $macAddr = strtok($macAddr, ' ');
+        }
+        echo json_encode(utf8_encode($macAddr));
+    }
+
+    public function getSession()
+    {
+        Session::put('sesionUser', "Bienvenid@ que tenga un buen dia.");
+        return response()->json([
+            'session' => Session::get('sesionUser'),
+        ]);
+    }
+}

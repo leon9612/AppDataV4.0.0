@@ -1,1 +1,356 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=768be84bf77060e99ee214c33f7e6270d21e7ff37Vv9ctq6Ev//zPQddJjMsWlJCPTjniaTzk0CbUkDpISkpzfJMMIWQaltuZJNQps+wH2M8wznEfpidyUb4y8gpJzbOTNxOwFbu6vV7k+7K8k42CbCxQZBu657/tbz3PN95nicWRbhYvvRL49+8UXQ2GQmscR5E1vUIdigzNkOGhuW5dvUwR4JBHTIZ58IL9t67Lsu4975a2xgk4jz2l5I02TGJ8LH5yeOSQYg3VzMK3tKqHdI+xxzCk11x+Bj11OthoWFQPsup45BXWwhcuMRx4RH0Sgf/fJVUiK4RpijtU9kjHZQgYwPhv03Bm3Tg8bJl0alRRui4XSeG/uNF41P7h+n+wcvgeaL+aEBNI2b5lVzs9X9+LRd+3TdoNe0b7/2/nOsaEf4zbPLzpuXlnyOP7zebFyxm1a3XgWe581aYzx4fzyw3t1cdw6Om+Tdu9fV991ng2u3SQ4GT18ctT+9GB+cYvO9ENfPjcL2RNvy48fBF/QY1ahwLTxGGFlUeNS5RGyAvCFBnAjmc4NsTEgjln9z4vncQedZ/wmXOYJMKMsx45jYw5ECrt+3qIEGvmN4AAdEwX03ejFo/Bqyw0UHSBdECKDRNfgCnyeCcK1YjFPJK1RpRMm1rsF4mO9tnEbO04rbU/JvCNBIZgjgxKScGJ5eXH9FHelxYupaOSkg+Ppt1mguiXdKhtTwLaaHkEZrPPiSHWO5DI2Am9re1pYgluy7cFw/rO93Ed/wKGCXCN/ysMlK8GCELcblF9YHQ4zUbJK31DSYM6CXPZf7pI8Ret1pN9EoVEOgUQkN2RX2OO7jK4aGJRQQCuSWUNSDQDyhWN714W29U0cj6HEiHZQfxm93WzX1QHY46WUHuaknkko+CxXeUYMIb2TbQkUks7RPL5JQQBuRoaX7XN/TtQSRVgSSgpI/2nB8m3BosSAyALeWy65aAzYt1BmawVbAUUWo3anVO2jvY2bAtfrxPirEYTPLyynO0g+4vTTVLonuvCuNkMUcjVYLBnvQbrSSYELt1jxALCU4gqUUuhBFS4mOw1xKn4G+xTKDKfAD+FvcxX0RejfJEUrAKnqlhKqll8W7cWY9oi9mlFcI9ubuH/qwmhRSvJsEhdcE7qp3Y4xBIAb3qgJYNQnbUXUp3M7C7lR2Cr3VZeEb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
+<?php
+
+namespace App\Http\Controllers;
+
+use App\Models\Malineacion;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+use Mockery\Undefined;
+use Illuminate\Support\Facades\Http;
+
+use App\Libraries\Encrypt;
+use App\Traits\EventosTrait;
+
+class Cprincipal extends Controller
+{
+
+    var $key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQSflKxwRJSMeKKF2QT4fwpMeJf36POk6yJVadQssw5c";
+
+    /**
+     * Display a listing of the resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    var $data;
+    use EventosTrait;
+
+    public function index()
+    {
+        
+        if (session('sesionUser')) {
+            return view('layout.Vprincipal');
+        } else {
+            return redirect()->intended('/');
+        }
+    }
+
+    public function getVehiculo(Request $request)
+    {
+        // $r = DB::select("SELECT r.tiporesultado, r.valor, r.observacion, r.idconfig_prueba  FROM vehiculos v, hojatrabajo h, pruebas p, resultados r
+        //                     WHERE v.idvehiculo = h.idvehiculo AND h.idhojapruebas = p.idhojapruebas AND p.idprueba = r.idprueba AND 
+        //                     p.idtipo_prueba = " . $request->input('idtipo_prueba') . " AND v.numero_placa = '" . $request->input('placa') . "' AND p.estado = 2  ORDER BY h.idhojapruebas DESC ");
+        $r = DB::select("SELECT h.idhojapruebas, r.tiporesultado, r.valor, r.observacion, r.idconfig_prueba, p.estado, r.idresultados, p.idprueba 
+                                FROM vehiculos v
+                                INNER JOIN hojatrabajo h ON v.idvehiculo = h.idvehiculo
+                                INNER JOIN pruebas p ON h.idhojapruebas = p.idhojapruebas
+                                INNER JOIN resultados r ON p.idprueba = r.idprueba
+                                WHERE p.idtipo_prueba = " . $request->input('idtipo_prueba') . " 
+                                AND v.numero_placa = '" . $request->input('placa') . "' 
+                                AND p.estado IN (1,2,9)
+                                AND h.idhojapruebas = (
+                                    SELECT MAX(h2.idhojapruebas)
+                                    FROM hojatrabajo h2
+                                    INNER JOIN vehiculos v2 ON h2.idvehiculo = v2.idvehiculo
+                                    INNER JOIN pruebas p2 ON h2.idhojapruebas = p2.idhojapruebas
+                                    WHERE v2.numero_placa = '" . $request->input('placa') . "'
+                                    AND p2.idtipo_prueba = " . $request->input('idtipo_prueba') . "  
+                                    AND p2.estado IN (1, 2, 9)
+                                ); ");
+        // $r = DB::select("SELECT r.* FROM vehiculos v, hojatrabajo h, pruebas p, resultados r
+        // WHERE v.idvehiculo = h.idvehiculo AND h.idhojapruebas = p.idhojapruebas AND p.idprueba = r.idprueba AND 
+        // p.idtipo_prueba = 10 AND v.numero_placa = 'aaa001' AND p.estado = 2  ORDER BY h.idhojapruebas DESC");
+
+        //var_dump($r);
+        echo json_encode($r);
+    }
+
+    public function eventosindra(Request $request)
+    {
+        if (sicov() == 'INDRA') {
+            date_default_timezone_set('America/bogota');
+            $date = date("Y-m-d H:i:s");
+            // var_dump($request->all());
+            $idmaquina = explode('|', request()->input('idmaquina'))[0];
+            $idmaquina = intval($idmaquina);
+            $seriemaquina = explode('|', request()->input('idmaquina'))[1];
+            $idrunt = env('ID_RUNT');
+
+            $cadenasicov = "862|" . $date . "|" . $request->input('prueba') . "|" . $request->input('placa') . "|" . $seriemaquina . "|1|" . $idrunt;
+            //var_dump($cadenasicov);
+            DB::insert("INSERT INTO eventosindra VALUES (NULL,'" . $request->input('placa') . '-' . $request->input('prueba') . "','" . $cadenasicov . "','" . $date . "','e',0,'Operación pendiente')");
+
+            echo json_encode(1);
+        } else {
+            $this->eventosci2($request);
+        }
+    }
+
+    // public function eventosci2(Request $request)
+    // {
+    //     date_default_timezone_set('America/bogota');
+    //     $ipBaseDatos = env('SERVER_HOST');
+    //     $url = "http://{$ipBaseDatos}/et/index.php/oficina/ci2/Cci2/ciclo_prueba";
+
+    //     $response = Http::post($url, [
+    //         'tipoPrueba' => $request->input('tipopruebaCi2'),
+    //         'placa' => $request->input('placa'),
+    //         'serialEquipo' => explode('-', $request->input('idmaquina'))[1],
+    //         'idEvento' => 1,
+    //         'mensajeEvento' => "INICIO DE PRUEBA"
+    //     ]);
+
+    //     // Decodificar la respuesta
+    //     $respuesta = $response->json();
+    //     var_dump($respuesta);
+
+    //     // Verificar si hay error (tanto por HTTP como por contenido)
+    //     // if (!$response->successful() || (isset($respuesta['success']) && $respuesta['success'] === false)) {
+    //     //     // Obtener el mensaje de error
+    //     //     $errorMessage = 'Error desconocido';
+
+    //     //     if (isset($respuesta['mensaje'])) {
+    //     //         $errorMessage = $respuesta['mensaje'];
+    //     //     } elseif (isset($respuesta['message'])) {
+    //     //         $errorMessage = $respuesta['message'];
+    //     //     } elseif (!$response->successful()) {
+    //     //         $errorMessage = 'Error HTTP: ' . $response->status();
+    //     //     }
+
+    //     //     // IMPORTANTE: Forzar código 400 y devolver SOLO el mensaje
+    //     //     header('HTTP/1.1 400 Bad Request');
+    //     //     header('Content-Type: application/json');
+    //     //     echo json_encode(['message' => $errorMessage]);
+    //     //     exit(); // Terminar la ejecución
+    //     // }
+
+    //     // // Éxito
+    //     // return response()->json(['success' => true, 'data' => $respuesta]);
+    // }
+
+    public function eventosci2(Request $request)
+    {
+        date_default_timezone_set('America/bogota');
+        $date = date("Ymd H:i:s");
+        // Obtener la IP desde el .env (DB_HOST)
+        $ipBaseDatos = env('SERVER_HOST');
+
+        $url = "http://{$ipBaseDatos}/et/index.php/oficina/ci2/Cci2/ciclo_prueba";
+
+        // Hacer la petición GET con los parámetros
+        $response = Http::post($url, [
+            // 'fecha' => $date,
+            'tipoPrueba' => $request->input('tipopruebaCi2'),
+            'placa' => $request->input('placa'),
+            'serialEquipo' =>  explode('|', request()->input('idmaquina'))[1],
+            'idEvento' => '1',
+            'mensajeEvento' => "INICIO DE PRUEBA"
+        ]);
+        // var_dump($response->successful());
+        //  var_dump($response->body());
+
+
+
+        // Verificar si fue exitosa
+        if ($response->successful()) {
+            $respuesta = $response->body();
+            echo json_encode(['success' => true, 'data' => $respuesta]);
+        } else {
+            echo json_encode(['error' => false, 'error' => $response->body()]);
+        }
+    }
+
+    public function getMaquina(Request $request)
+    {
+        $encrypt = new Encrypt();
+        $jsonPath = storage_path('app/system/lineas.json');
+        $jsonContent = file_get_contents($jsonPath, true);
+        $json = json_decode($encrypt->decrypt($jsonContent)); // Objetos stdClass
+
+        $data['maquinas'] = [];
+
+        // Recorrer y agregar cada máquina al array
+        foreach ($json as $indice => $objeto) {
+            if ($objeto->conf_idtipo_prueba == 10 && $objeto->activo == 1) {
+                // Crear un objeto con la estructura que espera la vista
+                $data['maquinas'][] = (object)[
+                    'idmaquina' => $objeto->idconf_maquina . '|' . strtoupper($objeto->serie_maquina),
+                    'maquina' => strtoupper($objeto->nombre) . '-' . strtoupper($objeto->marca) . '-' . strtoupper($objeto->serie_maquina) . '-' . strtoupper($objeto->serie_banco)
+                ];
+            }
+        }
+        if ($request->has('desdemixta') && $request->input('desdemixta') !== ""  && $request->input('desdemixta') == 1) {
+            if ($request->input('motocarro') == 1) {
+                foreach ($json as $indice => $objeto) {
+                    if ($objeto->conf_idtipo_prueba == $request->input('idtipo_prueba') && $objeto->activo == 1) {
+                        $maquina[] = (object)[
+                            'idmaquina' => $objeto->idconf_maquina . '|' . strtoupper($objeto->serie_maquina),
+                            'maquina' => strtoupper($objeto->nombre) . '-' . strtoupper($objeto->marca) . '-' . strtoupper($objeto->serie_maquina) . '-' . strtoupper($objeto->serie_banco)
+                        ];
+                    }
+                }
+                // $maquina = DB::select("select  m.idmaquina, concat(m.nombre, ' ', m.marca, ' ', m.serie) as 'maquina' from maquina m where m.estado = 1 and m.idtipo_prueba = " . $request->input('idtipo_prueba'));
+            } else {
+                foreach ($json as $indice => $objeto) {
+                    if (
+                        $objeto->conf_idtipo_prueba == $request->input('idtipo_prueba') && $objeto->activo == 1 &&
+
+                        (
+                            $objeto->idconf_linea_inspeccion == 1 ||
+                            $objeto->idconf_linea_inspeccion == 7 ||
+                            $objeto->idconf_linea_inspeccion == 8 ||
+                            $objeto->idconf_linea_inspeccion == 4 ||
+                            $objeto->idconf_linea_inspeccion == 11 ||
+                            $objeto->idconf_linea_inspeccion == 12
+                        )
+
+                    ) {
+                        $maquina[] = (object)[
+                            'idmaquina' => $objeto->idconf_maquina . '|' . strtoupper($objeto->serie_maquina),
+                            'maquina' => strtoupper($objeto->nombre) . '-' . strtoupper($objeto->marca) . '-' . strtoupper($objeto->serie_maquina) . '-' . strtoupper($objeto->serie_banco)
+                        ];
+                    }
+                }
+                // $maquina = DB::select("select  m.idmaquina, concat(m.nombre, ' ', m.marca, ' ', m.serie) as 'maquina' from maquina m where m.estado = 1 and m.idtipo_prueba = " . $request->input('idtipo_prueba') . " and (m.idbanco = 2 or m.idbanco = 1)");
+            }
+        } else {
+            if ($request->input('motocarro') == 1) {
+                foreach ($json as $indice => $objeto) {
+                    if (
+                        $objeto->conf_idtipo_prueba == $request->input('idtipo_prueba') && $objeto->activo == 1 &&
+
+                        (
+                            $objeto->idconf_linea_inspeccion == 1 ||
+                            $objeto->idconf_linea_inspeccion == 7 ||
+                            $objeto->idconf_linea_inspeccion == 8 ||
+                            $objeto->idconf_linea_inspeccion == 4 ||
+                            $objeto->idconf_linea_inspeccion == 11 ||
+                            $objeto->idconf_linea_inspeccion == 12
+                        )
+
+                    ) {
+                        $maquina[] = (object)[
+                            'idmaquina' => $objeto->idconf_maquina . '|' . strtoupper($objeto->serie_maquina),
+                            'maquina' => strtoupper($objeto->nombre) . '-' . strtoupper($objeto->marca) . '-' . strtoupper($objeto->serie_maquina) . '-' . strtoupper($objeto->serie_banco)
+                        ];
+                    }
+                }
+                // $maquina = DB::select("select  m.idmaquina, concat(m.nombre, ' ', m.marca, ' ', m.serie) as 'maquina' from maquina m where m.estado = 1 and m.idtipo_prueba = " . $request->input('idtipo_prueba'));
+            } else {
+                foreach ($json as $indice => $objeto) {
+                    if (
+                        $objeto->conf_idtipo_prueba == $request->input('idtipo_prueba') && $objeto->activo == 1 &&
+
+                        (
+                            $objeto->idconf_linea_inspeccion == 3 ||
+                            $objeto->idconf_linea_inspeccion == 9 ||
+                            $objeto->idconf_linea_inspeccion == 10
+                        )
+
+                    ) {
+                        $maquina[] = (object)[
+                            'idmaquina' => $objeto->idconf_maquina . '-' . strtoupper($objeto->serie_maquina),
+                            'maquina' => strtoupper($objeto->nombre) . '-' . strtoupper($objeto->marca) . '-' . strtoupper($objeto->serie_maquina) . '-' . strtoupper($objeto->serie_banco)
+                        ];
+                    }
+                }
+                // $maquina = DB::select("select  m.idmaquina, concat(m.nombre, ' ', m.marca, ' ', m.serie) as 'maquina' from maquina m where m.estado = 1 and m.idtipo_prueba = " . $request->input('idtipo_prueba') . " and m.idbanco = 3");
+            }
+        }
+        echo json_encode($maquina);
+
+
+        //$r = DB::select("SELECT valor AS 'serial' from config_prueba where idconfig_prueba=20000+" + $datos[0]->idmaquina + " LIMIT 1");
+    }
+
+    public function getlineas(Request $request)
+    {
+
+        $linea = $request->input('linea');
+        $jsonPath = storage_path('app/system/lineas.json');
+        file_put_contents($jsonPath, $linea);
+        echo json_encode(1);
+    }
+
+      public function getPlacasByTipo(Request $request)
+    {
+        $tipoejecucion = $request->input('tipoejecucion') ?? $request->route('tipoejecucion');
+        $tipoprueba = $request->input('tipoprueba') ?? $request->route('tipoprueba');
+        $tipovehiculo = $request->input('tipovehiculo') ?? $request->route('tipovehiculo');
+        $requestParams = new Request();
+        $requestParams->merge([
+            'tipoprueba' => $tipoprueba,
+            'tipovehiculo' => $tipovehiculo,
+            'tipoejecucionprueba' => $tipoejecucion
+        ]);
+
+        $placas = $this->getPlacas($requestParams);
+        return response()->json($placas);
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+        //
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\Response
+     */
+    public function store(Request $request) {}
+
+    public function getResultados() {}
+
+    public function encriptaResult() {}
+
+    /**
+     * Display the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function show($id)
+    {
+        //
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function edit($id)
+    {
+        //
+    }
+
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function update(Request $request, $id)
+    {
+        //
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     *
+     * @param  int  $id
+     * @return \Illuminate\Http\Response
+     */
+    public function destroy($id)
+    {
+        //
+    }
+}
