@@ -20,7 +20,9 @@ use App\Http\Controllers\Cvisual;
 use App\Http\Controllers\Cactualizar;
 use App\Http\Controllers\Calibracion;
 use App\Http\Controllers\Cfotos;
+use App\Traits\EventosTrait;
 use Illuminate\Support\Facades\Route;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -74,3 +76,9 @@ Route::post('/deleteDefectos', [Cvisual::class, 'deleteDefectos']);
 Route::post('/saveDefectos', [Cvisual::class, 'saveDefectos']);
 Route::post('/saveLabrado', [Cvisual::class, 'saveLabrado']);
 //Route::resource('principal', Cprincipal::class);
+
+Route::post('/getPlacas', [EventosTrait::class, 'getPlacas']);
+
+
+Route::post('/getPlacasByTipo', [Cprincipal::class, 'getPlacasByTipo']);
+Route::get('/getPlacasByTipo/{tipoejecucion}', [Cprincipal::class, 'getPlacasByTipo']);
