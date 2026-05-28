@@ -180,7 +180,7 @@
 
     <!-- Información de versión -->
     <div class="version-info">
-        <i class="bi bi-tag-fill me-1"></i> V3.0.0
+        <i class="bi bi-tag-fill me-1"></i> V4.0.0
     </div>
 
     <section class="vh-100 d-flex align-items-center">
