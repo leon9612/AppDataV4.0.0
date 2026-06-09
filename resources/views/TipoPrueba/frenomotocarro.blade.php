@@ -355,7 +355,7 @@
 
     $("#btn-calcular").click(function(ev) {
         ev.preventDefault()
-        document.getElementById("btn-Guardar").disabled = false;
+        document.getElementById("btn-guardar").disabled = false;
         var sumFuerza = parseFloat($("#fuerza1d").val()) + parseFloat($(
             "#fuerza2d").val()) + parseFloat($("#fuerza2i").val())
         var peso = parseFloat($("#pesaje1d").val()) + parseFloat($(
