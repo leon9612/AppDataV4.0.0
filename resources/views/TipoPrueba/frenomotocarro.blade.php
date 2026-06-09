@@ -295,7 +295,7 @@
                 <input type="hidden" name="tipoprueba" id="tipoprueba" value="7">
                 <input type="hidden" name="tipopruebaCi2" id="tipopruebaCi2" value="7">
                 <input type="hidden" name="prueba" id="prueba" value="Frenos">
-                <button style="width: 100%; height: 55px;" class="btn btn-outline-success" id="btn-Guardar" disabled
+                <button style="width: 100%; height: 55px;" class="btn btn-outline-success" id="btn-guardar" disabled
                     type="submit">Guardar</button>
             </div>
         </div>
