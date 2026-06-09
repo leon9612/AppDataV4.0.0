@@ -425,7 +425,7 @@
             tipovehiculo = '3';
         } else if (ultimoSegmento === 'frmotocarro') {
             tipoprueba = '7';
-            tipovehiculo = '1';
+            tipovehiculo = '4';
         } else if (ultimoSegmento === 'visual') {
             tipoprueba = '8';
             tipovehiculo = '4';
